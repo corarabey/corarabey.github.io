@@ -3,17 +3,20 @@ project:
   output-dir: "."
 
 website:
-  title: "YOUR NAME"
+  title: "Cora Rabey"
+  
   navbar:
     pinned: true
     left:
       - text: Project
         href: project.qmd
+      - text: R basics 
+        href: danl-200-quarto.qmd
       - text: Blog
         href: blog-listing.qmd
             
   page-footer: 
-    center: "Powered with GitHub and Quarto<br>© YOUR NAME, 2023"
+    center: "Powered with GitHub and Quarto<br>© Cora Rabey, 2024"
 
 format:
   html:
@@ -25,4 +28,3 @@ format:
     css: styles.css
     toc: false
     include-after-body: target_blank.html
-    

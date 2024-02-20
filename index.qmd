@@ -1,6 +1,6 @@
 ---
-title: "YOUR NAME" 
-about:
+title: "Cora Rabey" 
+about: 
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
   image-width: 16em
@@ -9,33 +9,30 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: instagram
-      text: Instagram
-      href: https://instagram.com
+      href: https://www.linkedin.com/in/cora-rabey-57ba74290/
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/corarabey
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: https://corarabey.github.io/resume.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
-
+      href: mailto:car101@geneseo.edu
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Cora Rabey majors in Accounting at SUNY Geneseo. When not working on accounting, Cora enjoys spending time playing lacrosse and hanging out with friends.
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+B.S. in Accounting | Aug 2022 - May 2026 
+
+ 
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Camp counselor | May 2024 - Aug 2024
 
 
